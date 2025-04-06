@@ -3,7 +3,7 @@
 一个基于Python和Flask的YouTube视频下载工具，提供简洁的Web界面，支持高清视频下载和播放列表批量下载。
 
 作者：LeoMusk  
-官网：[格子间代码](https://www.gezicode.cn)
+官网：[格子源码](https://www.gezicode.cn)
 
 ## 功能特点
 
@@ -149,4 +149,4 @@ python main.py [选项]
 
 - 作者：LeoMusk
 - 官方网站：[www.gezicode.cn](https://www.gezicode.cn)
-- 技术支持：访问[格子间代码](https://www.gezicode.cn)获取更多帮助 
+- 技术支持：访问[格子源码](https://www.gezicode.cn)获取更多帮助 
