@@ -1,0 +1,4 @@
+Flask==3.0.2
+yt-dlp==2024.3.10
+Werkzeug==3.0.1
+tqdm>=4.65.0 
